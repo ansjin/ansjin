@@ -7,6 +7,11 @@ My name is Anshul Jindal and I'm currenntly pursuing Ph.D. from TU München in t
 
 Apart from coding, I also maintain a blog - you can find my articles on on [Medium](https://medium.com/@ansjin).
 
+## &#x270d; Publications
+
+You can read my latest publish papers either on Google Scholar [GoogleScholar](https://scholar.google.com/citations?user=GazLRtkAAAAJ) or on Research Gate [ResearchGate](https://www.researchgate.net/profile/Anshul-Jindal-2)
+
+
 <!--
 **ansjin/ansjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
