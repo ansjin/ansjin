@@ -1,7 +1,7 @@
 ![Header](https://github.com/ansjin/ansjin/blob/main/header.png "Header")
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Anshul Jindal and I'm currenntly pursuing Ph.D. from TU München in the area of Cloud Computing and Distributed Systems. I'm from India, living currently in Munich. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Anshul Jindal and I'm currently pursuing Ph.D. from TU München in the area of Cloud Computing and Distributed Systems. I'm from India, living currently in Munich. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 ## &#x270d; Blogs
 
