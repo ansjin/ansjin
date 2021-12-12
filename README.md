@@ -45,6 +45,11 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ansjin&repo=terminus&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
+<a href="https://github.com/ansjin/multi-cloud-serverless-deployment">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ansjin&repo=multi-cloud-serverless-deployment&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
 <!-- links to social media icons -->
 
 <!-- icons with padding -->
