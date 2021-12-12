@@ -3,9 +3,10 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 My name is Anshul Jindal and I'm currently pursuing Ph.D. from TU München in the area of Cloud Computing and Distributed Systems. I'm from India, living currently in Munich. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
-## &#x270d; Blogs
+## &#x270d; Blogs and Playgrounds
 
-Apart from coding, I also maintain a blog - you can find my articles on on [Medium](https://medium.com/@ansjin).
+Apart from coding, I also maintain a blog - you can find my articles on on [Medium](https://medium.com/@ansjin). 
+Also, I have created Katacoda scenarios playgrounds for playing with KubeEdge, you can checkout them here [Katacoda Playgrounds](https://www.katacoda.com/ansjin).
 
 ## &#x270d; Publications
 
