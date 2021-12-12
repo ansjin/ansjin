@@ -9,7 +9,7 @@ Apart from coding, I also maintain a blog - you can find my articles on on [Medi
 
 ## &#x270d; Publications
 
-You can read my latest publish papers either on Google Scholar [GoogleScholar](https://scholar.google.com/citations?user=GazLRtkAAAAJ) or on Research Gate [ResearchGate](https://www.researchgate.net/profile/Anshul-Jindal-2)
+You can read my latest publish papers either on Google Scholar [Google Scholar](https://scholar.google.com/citations?user=GazLRtkAAAAJ) or on Research Gate [Research Gate](https://www.researchgate.net/profile/Anshul-Jindal-2)
 
 
 <!--
