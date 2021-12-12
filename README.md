@@ -1,4 +1,4 @@
-[![Header](https://github.com/ansjin/ansjin/blob/main/header.png "Header")]
+![Header](https://github.com/ansjin/ansjin/blob/main/header.png "Header")
 
 ### Hi there 👋
 
