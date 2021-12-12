@@ -3,6 +3,10 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 My name is Anshul Jindal and I'm currenntly pursuing Ph.D. from TU München in the area of Cloud Computing and Distributed Systems. I'm from India, living currently in Munich. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
+## &#x270d; Blogs
+
+Apart from coding, I also maintain a blog - you can find my articles on on [Medium](https://medium.com/@ansjin).
+
 <!--
 **ansjin/ansjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
