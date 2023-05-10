@@ -1,17 +1,11 @@
-![Header](https://github.com/ansjin/ansjin/blob/main/header.png "Header")
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Anshul Jindal and I'm currently pursuing Ph.D. from TU München in the area of Cloud Computing and Distributed Systems. I'm from India, living currently in Munich. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Anshul and I like building distributed systems and deploying applications in a scalable way on cloud. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 ## &#x270d; Blogs and Playgrounds
 
 Apart from coding, I also maintain a blog - you can find my articles on on [Medium](https://medium.com/@ansjin). 
 Also, I have created Katacoda scenarios playgrounds for playing with KubeEdge, you can checkout them here [Katacoda Playgrounds](https://www.katacoda.com/ansjin).
-
-## &#x270d; Publications
-
-You can read my latest publish papers either on Google Scholar [Google Scholar](https://scholar.google.com/citations?user=GazLRtkAAAAJ) or on Research Gate [Research Gate](https://www.researchgate.net/profile/Anshul-Jindal-2)
-
 
 <!--
 **ansjin/ansjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
